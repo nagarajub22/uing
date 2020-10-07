@@ -19,10 +19,10 @@
       "dom"
     ],
     "paths": {
-      "@ui/components": [
+      "@ui": [
         "dist/components"
       ],
-      "@ui/components/*": [
+      "@ui/*": [
         "dist/components/*"
       ]
     }
