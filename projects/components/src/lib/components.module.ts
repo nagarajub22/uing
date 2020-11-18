@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
+import { ListComponent } from './list/list.component';
 
 @NgModule({
-  declarations: [],
+  declarations: [ListComponent],
   imports: [
   ],
   exports: []
