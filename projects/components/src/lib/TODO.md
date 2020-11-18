@@ -21,6 +21,7 @@ _List of Angular UI components_
 * Color Picker 
 
 **List**
+* ListView
 * Data Grid
 
 **Navigation**
